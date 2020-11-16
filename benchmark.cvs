@@ -1,0 +1,5 @@
+,Raspberry Pi 3B / MYRIAD,Raspberry Pi 3B / MYRIAD,Mac mini 2018 / YoLov3,Mac mini 2018 / Human Pose Estimation,MacBook Pro 2018 / YoLov3,MacBook Pro 2018 /Human Pose Estimation,NUC10i5 / YoLov3,NUC10i5 / Human Pose Estimation
+Count:     iterations ,0,0,480,2040,320,1352,312,1264
+Duration:   ms,0,0,60755.36,60091.18,60787.68,60129.00,60518.73,60271.42
+Latency:   ms ,0,0,376.39,86.44,768.95,179.97,800.26,191.09
+Throughput: FPS,0,0,7.90,33.95,5.26,22.48,5.16,20.97
