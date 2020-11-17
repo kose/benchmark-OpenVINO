@@ -30,7 +30,7 @@ def make_chart(idx):
     plt.barh(x - bar_width/2, yolo, bar_width, color="tab:blue", label="YoLo v3")
     plt.barh(x + bar_width/2, hpe, bar_width, color="tab:orange", label="Human Pose Estimation")
     plt.legend()
-    plt.subplots_adjust(left=0.16, right=0.98)
+    plt.subplots_adjust(left=0.25, right=0.98)
     plt.gca().invert_yaxis() # 上下並びを逆順に
     plt.yticks(x, index)
     plt.grid(axis='x')
