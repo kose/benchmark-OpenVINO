@@ -1,6 +1,5 @@
 # benchmark OpenVINO
 
-- Raspberry Pi 3B : ARM Cortex-A53, 4コア, 1.2GHz
 - Raspberry Pi 4B : ARM Cortex-A72, 4コア, 1.5GHz
 - Mac mini 2018 : Core i5-8500B, 6コア, 3.00GHz
 - MacBook Pro 2018 : Core i5-8259, 8コア, 2.30GHz
