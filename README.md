@@ -1,6 +1,7 @@
 # benchmark OpenVINO
 
 - Raspberry Pi 3B : ARM Cortex-A53, 4コア, 1.2GHz
+- Raspberry Pi 4B : ARM Cortex-A72, 4コア, 1.5GHz
 - Mac mini 2018 : Core i5-8500B, 6コア, 3.00GHz
 - MacBook Pro 2018 : Core i5-8259, 8コア, 2.30GHz
 - NUC10i5 : Core i5-10210U, 8コア, 1.60GHz
@@ -8,6 +9,8 @@
 ![table](images/table.png)
 ![3](images/3.png)
 ![2](images/2.png)
+
+※ 複数の MYRIAD の latency は計測されない。
 
 ## Reference
 

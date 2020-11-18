@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import re
 import numpy as np
 
-csvfile = "benchmark.cvs"
+csvfile = "openvino.csv"
 
 df = pd.read_csv(csvfile, index_col=0)
 
